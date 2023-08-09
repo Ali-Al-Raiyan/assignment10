@@ -1,0 +1,9 @@
+1.node_module: Shows all packages installed with the application.
+2.public: This folder contains different asset files such as image, logo, sound
+3.src: This folder contains all the components, pages of the application.
+4..eslintrc.json: Contains eslint configuration.
+5..gitignore: This file contains regarding files should be ignored while pushing in git.
+6.next.config.js: next js configuration file.
+7.package.json: This json file contains depandencies packages and their version.
+8.postcss.config.js: Tailwind postcss configuration file.
+9.tailwind.config.js: tailwind configuration file.
